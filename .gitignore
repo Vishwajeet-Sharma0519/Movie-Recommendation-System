@@ -1,0 +1,23 @@
+# Dataset (Ignore the huge 1GB raw data folder)
+ml-32m/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python caching
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.ipynb/
+
+# Environments
+.venv/
+venv/
+ENV/
+env/
+
+# OS specific files
+.DS_Store
+Thumbs.db
